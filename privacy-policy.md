@@ -1,6 +1,6 @@
 Privacy Policy for SERIEE
 
-Last updated: [DATE]
+Last updated: Feb 2026
 
 SERIEE is a series discovery, tracking, and review application. SERIEE is not a streaming platform.
 
@@ -42,4 +42,4 @@ We may update this policy from time to time.
 
 Contact Us:
 If you have questions about this Privacy Policy, contact us at:
-support@seriee.app
+serieeofficial@gmail.com
